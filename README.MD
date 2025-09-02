@@ -7,7 +7,7 @@ class DeveloperProfile:
 
     def __init__(self):
         self.name = "Anurag Rai"
-        self.role = "Junior | BMSIT&M 27 | CSE"
+        self.role = "Student | BMSIT&M 27 | CSE"
         self.location = "Bengaluru, Karnataka, India"
 
     def say_hi(self):
