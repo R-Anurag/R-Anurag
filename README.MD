@@ -22,4 +22,6 @@ me.say_hi()
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/r-anurag" target="blank"><img align="center" src="./connect-with-me-icons/linkedinIcon.png" alt="r-anurag" height="40" width="40" /></a>
+<a href="https://mailto:raianurag3189@gmail.com" target="blank"><img align="center" src="./connect-with-me-icons/mail.png" alt="r-anurag" height="40" width="40" /></a>
+<a href="https://medium.com/@raianurag3189" target="blank"><img align="center" src="./connect-with-me-icons/medium.png" alt="r-anurag" height="40" width="40" /></a>
 </p>
