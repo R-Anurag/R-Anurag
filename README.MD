@@ -9,6 +9,7 @@ class DeveloperProfile:
         self.name = "Anurag Rai"
         self.role = "Student | BMSIT&M 27 | CSE"
         self.location = "Bengaluru, Karnataka, India"
+        self.mailId = "raianurag3189@gmail.com"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
