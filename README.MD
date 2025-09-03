@@ -1,7 +1,7 @@
-<p>
-I am 
+<div>
+<p>I am</p> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=010405&width=450&lines=%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D%40+GDG+on+Campus+BMSIT%26M;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer+;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+%F0%9D%90%9A+%F0%9D%90%83%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB)](https://git.io/typing-svg)
-</p>
+</div>
 
 ```python
 #!/usr/bin/python
