@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
-  <span style="font-weight:600; font-size:24px;">I am</span>
+  <span style="font-weight:600; font-size:18px; position: relative; top: -6px;">I am</span>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -8,6 +8,7 @@
          alt="Typing SVG" />
   </picture>
 </div>
+
 
 
 
