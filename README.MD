@@ -1,4 +1,4 @@
-<div style="display:flex; gap:5px;">
+<div style="display:flex; gap:2px;">
   <!-- "I am" -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -10,8 +10,8 @@
   <!-- Typing animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" />
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=000000&vCenter=true&width=450&lines=an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer"
+      srcset="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=𝒞𝒽𝒶𝓅𝓉𝑒𝓇+𝐿𝑒𝒶𝒹@+GDG+on+Campus+BMSIT%26M;𝒲𝑒𝒷𝓂𝒶𝓈𝓉𝑒𝓇@+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=000000&vCenter=true&width=450&lines=𝒞𝒽𝒶𝓅𝓉𝑒𝓇+𝐿𝑒𝒶𝒹@+GDG+on+Campus+BMSIT%26M;𝒲𝑒𝒷𝓂𝒶𝓈𝓉𝑒𝓇@+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer"
          alt="Typing SVG" />
   </picture>
 
