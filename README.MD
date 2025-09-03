@@ -1,13 +1,12 @@
-<p align="center" style="margin:0;">
+<div style="display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;">
   <span style="font:600 18px/1.2 system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial;">I am</span>
-  &nbsp;
   <img
     src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=010405&width=450&lines=%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D%40+GDG+on+Campus+BMSIT%26M;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer+;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+%F0%9D%90%9A+%F0%9D%90%83%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB"
     alt="Typing SVG"
-    height="28"
-    style="vertical-align:middle"
+    style="height:28px;vertical-align:middle"
   />
-</p>
+</div>
+
 
 
 ```python
