@@ -1,16 +1,9 @@
-<div style="display:flex;align-items:center;gap:6px;">
-  <span style="font:600 18px/1.2 system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial;">
-    I am
-  </span>
-  <img 
+<a> I am <img 
     src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=010405&width=450&lines=Webmaster+%40+AR+VR+Hub+BMSIT;an+Android+Developer;an+AI+%26+ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer"
     alt="Typing SVG"
     style="height:28px;"
-  />
-</div>
-
-
-
+/>
+</a>
 
 ```python
 #!/usr/bin/python
