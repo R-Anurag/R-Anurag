@@ -2,11 +2,8 @@
   <span style="font-weight:600; font-size:18px;">I am</span>
 
   <picture>
-    <!-- Dark mode SVG -->
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" />
-    
-    <!-- Light mode SVG -->
     <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=000000&vCenter=true&width=450&lines=an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" 
          alt="Typing SVG" height="28px" />
   </picture>
