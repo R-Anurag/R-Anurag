@@ -1,5 +1,4 @@
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:6px;">
-
+<div style="display:flex; gap:1px;">
   <!-- "I am" -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
