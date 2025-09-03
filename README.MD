@@ -1,4 +1,40 @@
-<a href="https://git.io/typing-svg"> I am <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=010405&width=450&lines=%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%8B%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D%40+GDG+on+Campus+BMSIT%26M;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer+;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+%F0%9D%90%9A+%F0%9D%90%83%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AB" alt="Typing SVG" /></a>
+<div style="display:flex; align-items:center; gap:6px; justify-content:center;">
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="data:image/svg+xml;utf8,
+        <svg xmlns='http://www.w3.org/2000/svg' width='60' height='28'>
+          <text x='0' y='20' font-family='system-ui, sans-serif' font-size='18' font-weight='600' fill='white'>I am</text>
+        </svg>" 
+    />
+    <!-- Light mode -->
+    <img 
+      src="data:image/svg+xml;utf8,
+        <svg xmlns='http://www.w3.org/2000/svg' width='60' height='28'>
+          <text x='0' y='20' font-family='system-ui, sans-serif' font-size='18' font-weight='600' fill='black'>I am</text>
+        </svg>" 
+      alt="I am" 
+      style="height:28px;" 
+    />
+  </picture>
+
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <!-- Dark mode -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=𝒂𝒍𝒑𝒉𝒂%40+GDG+on+Campus+BMSIT%26M;𝒘𝒆𝒃𝒎𝒂𝒔𝒕𝒆𝒓%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" 
+      />
+      <!-- Light mode -->
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=000000&vCenter=true&width=450&lines=𝒂𝒍𝒑𝒉𝒂%40+GDG+on+Campus+BMSIT%26M;𝒘𝒆𝒃𝒎𝒂𝒔𝒕𝒆𝒓%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" 
+        alt="Typing SVG" 
+        style="height:28px;" 
+      />
+    </picture>
+  </a>
+</div>
 
 ```python
 #!/usr/bin/python
