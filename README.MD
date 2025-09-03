@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-weight:600; font-size:18px; padding:10px, 0px, 10px, 0;">I am</span>
+  <span style="font-weight:600; font-size:18px; height: 50px;">I am</span>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" 
