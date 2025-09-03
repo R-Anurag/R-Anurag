@@ -2,8 +2,8 @@
   <!-- "I am" -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Lora&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=45&lines=I+am" />
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&duration=1&pause=1000&color=000000&vCenter=true&width=45&lines=I+am"
+      srcset="https://readme-typing-svg.demolab.com?font=Lora&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=45&height=50&lines=I+am" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&duration=1&pause=1000&color=000000&vCenter=true&width=45&height=50&lines=I+am"
          alt="I am" />
   </picture>
 
