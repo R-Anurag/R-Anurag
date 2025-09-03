@@ -1,4 +1,4 @@
-<div style="display:flex; gap:2px;">
+<div style="display:flex; gap:0px;">
   <!-- "I am" -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
