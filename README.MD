@@ -1,16 +1,7 @@
-<div align="center" style="display:flex; align-items:center; gap:6px; justify-content:center;">
-  <span style="font-weight:600; font-size:18px;">I am</span>
-  
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=FFFFFF&vCenter=true&width=450&lines=𝒂𝒍𝒑𝒉𝒂%40+GDG+on+Campus+BMSIT%26M;𝒘𝒆𝒃𝒎𝒂𝒔𝒕𝒆𝒓%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" />
-
-    <!-- Light mode -->
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=000000&vCenter=true&width=450&lines=𝒂𝒍𝒑𝒉𝒂%40+GDG+on+Campus+BMSIT%26M;𝒘𝒆𝒃𝒎𝒂𝒔𝒕𝒆𝒓%40+AR+VR+Hub+BMSIT%26M;an+Android+Developer;an+AI%26ML+Explorer;a+Cloud+Enthusiast;a+Creative+Tech+Storyteller;an+AR%2FVR+Explorer;and+most+importantly%2C+a+Dreamer" 
-         alt="Typing SVG" height="28px" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
+</picture>
 
 
 ```python
