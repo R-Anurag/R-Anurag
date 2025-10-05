@@ -47,3 +47,10 @@ me.say_hi()
 <a href="https://mailto:raianurag3189@gmail.com" target="blank"><img align="center" src="./connect-with-me-icons/mail.png" alt="r-anurag" height="40" width="40" /></a>
 <a href="https://medium.com/@raianurag3189" target="blank"><img align="center" src="./connect-with-me-icons/medium.png" alt="r-anurag" height="40" width="40" /></a>
 </p>
+
+<h3 align="left">Profile Stats:</h3>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=R-Anurag&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Anurag's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=R-Anurag&theme=transparent&count_private=true&border_radius=10&locale=en" alt="R-Anurag" />
+</div>
+
