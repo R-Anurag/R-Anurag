@@ -41,6 +41,8 @@ me = DeveloperProfile()
 me.say_hi()
 ```
 
+![Profile views](https://komarev.com/ghpvc/?username=R-Anurag&label=Profile%20views&color=000000&style=flat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/r-anurag" target="blank"><img align="center" src="./connect-with-me-icons/linkedinIcon.png" alt="r-anurag" height="40" width="40" /></a>
