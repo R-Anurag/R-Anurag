@@ -52,7 +52,7 @@ me.say_hi()
 
 <h3 align="left">Profile Stats:</h3>
 <div align=left>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=R-Anurag&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&color=000000" alt="Anurag's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=R-Anurag&bg_color=000000&text_color=ffffff&icon_color=ffffff&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Anurag's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=R-Anurag&theme=transparent&count_private=true&border_radius=10&locale=en" alt="R-Anurag" />
 </div>
 
