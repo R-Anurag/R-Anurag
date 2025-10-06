@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=R-Anurag&label=Profile%20views&color=000000&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=R-Anurag&label=Profile%20views&color=000000&style=for-the-badge alt="Profile Views")
 
 <div style="display:flex; gap:0px;">
   <!-- "I am" -->
