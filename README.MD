@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=R-Anurag&label=Profile%20views&color=000000&style=flat)
+
 <div style="display:flex; gap:0px;">
   <!-- "I am" -->
   <picture>
@@ -40,8 +42,6 @@ class DeveloperProfile:
 me = DeveloperProfile()
 me.say_hi()
 ```
-
-![Profile views](https://komarev.com/ghpvc/?username=R-Anurag&label=Profile%20views&color=000000&style=flat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
